@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+ #Plunderer
+ trait_plunderer:0 "掠夺者"
+ trait_plunderer_desc:0 "掠夺者是一个擅长掠夺、掠夺和掠夺邻居的高手。"
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] 是一位擅长掠夺、掠夺和掠夺 [ROOT.GetCharacter.GetHerHis] 邻居的高手。"
+ trait_plunderer_special_effect:0 "拥有掠夺者特质，您可以 [raid|E]，无论 [government|E] 类型如何\n"

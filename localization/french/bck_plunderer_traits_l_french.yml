@@ -1,0 +1,7 @@
+﻿l_french:
+
+ #Plunderer
+ trait_plunderer:0 "Saqueur"
+ trait_plunderer_desc:0 "Le Saqueur est un maître du pillage, du vol et du ravage de ses voisins."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] est un maître du pillage, du vol et du ravage des voisins de [ROOT.GetCharacter.GetHerHis]."
+ trait_plunderer_special_effect:0 "Avec le trait de saqueur, vous pouvez [raid|E], indépendamment du type de [government|E]\n"

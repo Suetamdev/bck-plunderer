@@ -1,0 +1,7 @@
+﻿l_korean:
+
+ #Plunderer
+ trait_plunderer:0 "약탈자"
+ trait_plunderer_desc:0 "약탈자는 이웃을 약탈하고, 강탈하며, 파괴하는 전문가입니다."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은 약탈, 강탈 및 이웃의 파괴의 대가입니다."
+ trait_plunderer_special_effect:0 "약탈자 특성을 가지고 있으면 [raid|E]을 할 수 있습니다, [government|E] 유형에 관계없이\n"

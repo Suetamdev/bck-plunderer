@@ -1,0 +1,7 @@
+﻿l_english:
+
+ #Plunderer
+ trait_plunderer:0 "Plunderer"
+ trait_plunderer_desc:0 "The Plunderer is a master of raiding, plundering and pillaging their neighbors."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a master of raiding, plundering and pillaging [ROOT.GetCharacter.GetHerHis] neighbors."
+ trait_plunderer_special_effect:0 "With the plunderer trait you can [raid|E], regardless of [government|E] type\n"

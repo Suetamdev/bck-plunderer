@@ -1,0 +1,7 @@
+﻿l_german:
+
+ #Plunderer
+ trait_plunderer:0 "Plünderer"
+ trait_plunderer_desc:0 "Der Plünderer ist ein Meister des Raubens, Plünderns und Verwüstens seiner Nachbarn."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] ist ein Meister des Raubens, Plünderns und Verwüstens der Nachbarn von [ROOT.GetCharacter.GetHerHis]."
+ trait_plunderer_special_effect:0 "Mit dem Plünderer-Trait kannst du [raid|E] durchführen, unabhängig vom [government|E] Typ\n"

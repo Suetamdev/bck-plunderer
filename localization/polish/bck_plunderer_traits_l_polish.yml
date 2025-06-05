@@ -1,0 +1,7 @@
+﻿l_polish:
+
+ #Plunderer
+ trait_plunderer:0 "Łupieżca"
+ trait_plunderer_desc:0 "Łupieżca to mistrz w rajdach, plądrowaniu i grabieniu swoich sąsiadów."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] jest mistrzem rajdów, plądrowania i grabienia sąsiadów [ROOT.GetCharacter.GetHerHis]."
+ trait_plunderer_special_effect:0 "Dzięki traitowi Łupieżcy możesz [raid|E], niezależnie od typu [government|E]\n"

@@ -1,0 +1,7 @@
+﻿l_spanish:
+
+ #Plunderer
+ trait_plunderer:0 "Saqueador"
+ trait_plunderer_desc:0 "El Saqueador es un maestro en asaltos, saqueos y pillajes de sus vecinos."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] es un maestro en asaltos, saqueos y pillajes de los vecinos de [ROOT.GetCharacter.GetHerHis]."
+ trait_plunderer_special_effect:0 "Con el rasgo de saqueador puedes [raid|E], sin importar el tipo de [government|E]\n"

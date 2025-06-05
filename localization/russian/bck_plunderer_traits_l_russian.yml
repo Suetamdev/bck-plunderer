@@ -1,0 +1,7 @@
+﻿l_russian:
+
+ #Plunderer
+ trait_plunderer:0 "Грабитель"
+ trait_plunderer_desc:0 "Грабитель — это мастер набегов, грабежей и опустошения своих соседей."
+ trait_plunderer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] — мастер набегов, грабежей и опустошения соседей [ROOT.GetCharacter.GetHerHis]."
+ trait_plunderer_special_effect:0 "С trait грабителя вы можете [raid|E], независимо от типа [government|E]\n"
