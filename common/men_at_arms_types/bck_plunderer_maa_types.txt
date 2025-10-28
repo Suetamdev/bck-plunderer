@@ -26,8 +26,9 @@
 	buy_cost = { gold = jomsviking_pirates_recruitment_cost }
 	low_maintenance_cost = { gold = jomsviking_pirates_low_maint_cost }
 	high_maintenance_cost = { gold = jomsviking_pirates_high_maint_cost }
-
+	provision_cost = @provisions_cost_infantry_cheap
+	
 	stack = 100
-	ai_quality = { value = 50 }
+	ai_quality = { value = @cultural_maa_extra_ai_score }
 	icon = jomsviking_raiders
 }
