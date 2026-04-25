@@ -3,5 +3,5 @@ tags={
 	"Character Focuses"
 }
 name="BCK - Plunderer"
-supported_version="1.18.*"
+supported_version="1.19.*"
 remote_file_id="3173910316"
