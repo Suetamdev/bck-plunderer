@@ -31,6 +31,8 @@ jomsviking_raiders = {
 	high_maintenance_cost = { gold = jomsviking_pirates_high_maint_cost }
 	provision_cost = @jomsviking_provisions_cost_infantry_cheap
 	
+	max_regiments = 1
+
 	stack = 100
 	ai_quality = { value = @jomsviking_cultural_maa_extra_ai_score }
 	icon = jomsviking_raiders
